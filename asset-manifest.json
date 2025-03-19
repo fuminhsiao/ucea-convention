@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ucea-convention/static/css/main.e6c13ad2.css",
+    "main.js": "/ucea-convention/static/js/main.20ba093a.js",
+    "static/js/488.8712b263.chunk.js": "/ucea-convention/static/js/488.8712b263.chunk.js",
+    "static/media/Hans_Klar.jpg": "/ucea-convention/static/media/Hans_Klar.698bf83223bd1e73dca6.jpg",
+    "static/media/Patricia_Virella.png": "/ucea-convention/static/media/Patricia_Virella.2e22c7681a3060e9c4cc.png",
+    "static/media/theme2.png": "/ucea-convention/static/media/theme2.873e5fac628b2e0c57d9.png",
+    "static/media/flores.jpg": "/ucea-convention/static/media/flores.4afa51a376d49d710995.jpg",
+    "static/media/Cosner.jpg": "/ucea-convention/static/media/Cosner.c80f17d9ea42f3686ba4.jpg",
+    "static/media/Kaneshia.jpg": "/ucea-convention/static/media/Kaneshia.ae02aaf1b02f04186df5.jpg",
+    "static/media/home-banner.webp": "/ucea-convention/static/media/home-banner.e9ec1d0e784a9caeef69.webp",
+    "static/media/UCEALOGO.png": "/ucea-convention/static/media/UCEALOGO.812661bc4f7a47a6a02a.png",
+    "static/media/ucea-logo.png": "/ucea-convention/static/media/ucea-logo.6023673443fcfd611f51.png",
+    "index.html": "/ucea-convention/index.html",
+    "main.e6c13ad2.css.map": "/ucea-convention/static/css/main.e6c13ad2.css.map",
+    "main.20ba093a.js.map": "/ucea-convention/static/js/main.20ba093a.js.map",
+    "488.8712b263.chunk.js.map": "/ucea-convention/static/js/488.8712b263.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20ba093a.js"
+  ]
+}
