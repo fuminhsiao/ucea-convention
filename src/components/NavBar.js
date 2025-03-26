@@ -19,7 +19,7 @@ const NavbarContainer = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 40px;
+  padding: 50px 40px;
 `;
 
 const Logo = styled.div`

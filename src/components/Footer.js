@@ -3,16 +3,19 @@ import logo from "../assets/UCEALOGO.png"; // 引入 logo 圖片
 
 // Styled Components
 const FooterContainer = styled.footer`
-  background-color: #f4f4f4;
-  padding: 30px 40px;
+  background-color:rgb(255, 255, 255);
   width: 100%;
-  border-top: 2px solid #ccc;
+  border-top: 1px solid #efefef;
   margin-top: auto;
   font-family: Arial, sans-serif;
+  min-height: 200px;
+  padding: 50px 0;
+  display: flex;
+  align-items: center;
 `;
 
 const FooterContent = styled.div`
-  max-width: 1080px;
+  width: 1080px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -32,13 +35,13 @@ const FooterLeft = styled.div`
   }
 
   img {
-    height: 60px;
+    height: 70px;
     margin-bottom: 8px;
   }
 
   p {
     font-size: 1rem;
-    color: #004080;
+    color:rgb(0, 0, 0);
     margin: 5px 0;
   }
 `;
@@ -46,12 +49,15 @@ const FooterLeft = styled.div`
 const FooterRight = styled.div`
   text-align: right;
   font-size: 1rem;
-  color: #004080;
+  color:rgb(49, 49, 49);
   line-height: normal;
   p {
     font-size: 1rem;
-    color: #004080;
+    color:rgb(49, 49, 49);
     margin: 0;
+  }
+  a {
+  color: #3366cc;
   }
 
   @media (max-width: 768px) {
